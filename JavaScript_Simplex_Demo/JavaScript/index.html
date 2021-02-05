@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="./lib/ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="./lib/ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+</head>
+<body>
+
+<button id="start" type="button">Start</button>
+<!--<button id="stop" type="button">Stop</button>-->
+<select id="IsothermType">
+    <!--<option value="Langmuir (Temp)">Langmuir (Temp)</option>-->
+    <!--<option value="Two Site Langmuir (Temp)">Two Site Langmuir (Temp)</option>-->
+</select>
+
+&nbsp
+<label id = "iteration">Iteration / Round </label>
+
+
+<p id="output">
+</p>
+
+<script src="./build/fmin.js"></script>
+<script src="./build/fmin_vis.js"></script>
+
+<script src="App.js"></script>
+<!--<script src="Engine.js"></script>-->
+<script src="Langmuir.js"></script>
+
+<script>
+    theApp.init();
+</script>
+
+</body>
+</html>

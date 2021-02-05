@@ -1,0 +1,478 @@
+{
+  "model": "https://greeeg-ressources.netlify.com/models/desert.obj",
+  "assets": [
+    "https://images.unsplash.com/photo-1536914307996-bcef0f608f2f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1200&h=400&fit=crop&ixid=eyJhcHBfaWQiOjF9&s=d36fbaacbda86d4d04b016bc8d4b4876"
+  ],
+  "projects": [
+    {
+      "title": "Project1 ThreeJs",
+      "slug": "synerghetic-website",
+      "titleParts": [
+        "Project 1",
+        "Three Js"
+      ],
+      "sections": [
+        {
+          "type": "intro",
+          "data": {
+            "title": "Helping Synerghetic in shaping the future of their digital presence",
+            "description": "Synerg'hetic is one of the top Junior-Entreprise in France, helping big companies like Engie or EY and startups to meet their digital needs. I worked with Synerg'hetic in 2018 in order to define and create their new website, showcasing their vibrant culture and recent projects.",
+            "link": "https://synerghetic.net/",
+            "linkTitle": "Discover the project",
+            "meta": [
+              {
+                "title": "Date",
+                "items": [
+                  "July - December 2018"
+                ]
+              },
+              {
+                "title": "Tasks",
+                "items": [
+                  "Front-end development",
+                  "Back-end development",
+                  "Continuous deployment"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-01.jpg",
+            "title": "Synerg'hetic website"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Modern feel, strong roots",
+            "texts": [
+              "Synerg'hetic has been around for 14 years, building top-notch websites, creating mobile apps and more. While their services evolved with time, their desire to be seen as dedicated and passionate people didn't. With Théo Rosel, digital designer, we had to create an experience that feels modern and smooth but also solid, just like the experience they earned with time."
+            ]
+          }
+        },
+        {
+          "type": "parallax",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-02.jpg",
+            "title": "Synerg'hetic case studies showcasing their clients"
+          }
+        },
+        {
+          "type": "video",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-01.mp4"
+          }
+        },
+        {
+          "type": "details",
+          "data": {
+            "title": "Building a solution with custom expectations in mind",
+            "description": "Because we had to build something with a lot of animations and support all modern browsers + IE9, we decided to go for Nuxt.js. With server-side rendering baked-in, we had all the freedom to develop a responsive, mobile-friendly experience. Simple things like masks had to be designed in a way that they would work across all browsers."
+          }
+        },
+        {
+          "type": "fullwidth",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-04.jpg",
+            "title": "Test"
+          }
+        },
+        {
+          "type": "headline",
+          "data": {
+            "title": "Creating the future of Synerg'hetic's brand was a joined task with their awesome team, in order to convey the right emotions"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Delivering better performances with a JAMstack architecture",
+            "texts": [
+              "In order to create a reliable and cost-effective solution for Synerg'hetic, we decided to follow the JAMstack architecture. We created a REST API linked to a React.js back-office. Thus, we are able to build a static version of the front-end each time we update the content.",
+              "The overall thing is hosted partly on Netlify and on Docker containers. The front-end is built upon reusable components. Indeed, it gives a lot of flexibility to Synerg'hetic's members to create dynamic layout for case studies and blog posts."
+            ]
+          }
+        },
+        {
+          "type": "slider",
+          "data": {
+            "elements": [
+              {
+                "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-slider-01.jpg",
+                "title": "Test"
+              },
+              {
+                "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-slider-02.jpg",
+                "title": "Test"
+              },
+              {
+                "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-slider-03.jpg",
+                "title": "Test"
+              }
+            ]
+          }
+        },
+        {
+          "type": "details",
+          "data": {
+            "title": "A positive impact for Synerg'hetic on the long term",
+            "description": "After the redesign, users spend more time on the website, increasing from an average of 30 seconds to 1min54. Synerghetic.net has seen more than 22k new users that visited 60k pages. Moreover, some of Synerg'hetic's clients were really happy to see their projects featured on the website and to understand how they approached their problems."
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/synerghetic/synerghetic-website-05.jpg",
+            "title": "Synerg'hetic website"
+          }
+        }
+      ]
+    },
+    {
+      "title": "MING Labs internship",
+      "slug": "ming-labs-internship",
+      "titleParts": [
+        "Project 2",
+        "Babylon Js"
+      ],
+      "sections": [
+        {
+          "type": "intro",
+          "data": {
+            "title": "Working with a global team to help companies in their digital transformation",
+            "description": "MING Labs is a global digital agency connecting the dots between corporate strategy, digital strategy and their implementation. During 4 months, I joined their Berlin team in order to work on big companies & startup projects following a design thinking approach.",
+            "link": "https://minglabs.com/",
+            "linkTitle": "Discover MING Labs",
+            "meta": [
+              {
+                "title": "Date",
+                "items": [
+                  "July - October 2018"
+                ]
+              },
+              {
+                "title": "Tasks",
+                "items": [
+                  "Front-end development",
+                  "Back-end development"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/gregoire-mielle-ming-labs.jpg",
+            "title": "Synerg'hetic website"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Meet Francis, here to help you order food",
+            "texts": [
+              "Ordering food at lunch time in the office has always been quite a pain for the Berlin office at MING. In a group of 3, we worked on a solution that could help everyone get their favorite food within the snap of a finger.",
+              "Linked to your Slack food channel, Francis helps you choose which restaurant to order from, and then collects all individual orders for the one who will pay the team order. This project involved the use of Slack API, websockets, a Vue.js interface and a REST API."
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/francis-chatbot-01.jpg",
+            "title": "Synerg'hetic website"
+          }
+        },
+        {
+          "type": "parallax",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/francis-chatbot-02.jpg",
+            "title": "Synerg'hetic case studies showcasing their clients"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Created for Berlin, ready for Europe",
+            "texts": [
+              "We were really happy to see that, after several iterations, Francis was helping the team each time we wanted to order food. Based on Lieferando food delivery service, we quickly decided to make it also work with Deliveroo. Francis could be a real slack integration in the future to help teams across Europe to order food effectively."
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/francis-chatbot-03.jpg",
+            "title": "Synerg'hetic website"
+          }
+        },
+        {
+          "type": "details",
+          "data": {
+            "title": "Helping US citizens without insurance see doctors at affordable prices",
+            "description": "Sesame Care came to MING Labs in order to develop their MVP, aiming at fixing the US health care with paid upfront doctor appointments. In two weeks, we built a React app following a test-driven development process using Next.js. Working closely with their API team based in NYC, we were really happy to be able to book an appointment and process payments through the service we created."
+          }
+        },
+        {
+          "type": "fullwidth",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/ming-labs-sesame-care.jpg",
+            "title": "Test"
+          }
+        },
+        {
+          "type": "headline",
+          "data": {
+            "title": "At MING Labs, I learnt how important collaboration with people from different backgrounds is in our industry"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Being relevant beyond my defined skillset",
+            "texts": [
+              "In Berlin, I learnt a lot about service design, business design and such. Originally here as a front-end developer, I got involved in early stages of the design process which gave me new perspectives: understanding users needs, choosing the right technology for the right problem. Thus, I think this experience changed the way I see my work and how it can help others."
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/ming-labs/gregoire-mielle-ming-labs-02.jpg",
+            "title": "Synerg'hetic website"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Adrien portfolio",
+      "slug": "adrien-laurent-portfolio",
+      "titleParts": [
+        "Project3",
+        "Cesium JS"
+      ],
+      "sections": [
+        {
+          "type": "intro",
+          "data": {
+            "title": "Highlighting Adrien Laurent's projects and unique vision",
+            "description": "Adrien Laurent is a digital designer and HETIC student, just like me. During summer 2018, while he was in San Fransisco and me in Berlin, we decided to challenge ourself to create what would be its portfolio.",
+            "link": "https://adrienlaurent.fr/",
+            "linkTitle": "Discover the project",
+            "meta": [
+              {
+                "title": "Date",
+                "items": [
+                  "October - December 2018"
+                ]
+              },
+              {
+                "title": "Tasks",
+                "items": [
+                  "Front-end development"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/adrien-laurent/adrien-laurent-portfolio-01.jpg",
+            "title": "Synerg'hetic website"
+          }
+        },
+        {
+          "type": "details",
+          "data": {
+            "title": "Out of sight, near the heart",
+            "description": "With 9000km between use at that time, Adrien and I started to imagine a creative way of showcasing his projects and vision in order to convince worldwide agencies that he was the intern they are looking for. We spent a lot of time iterating on animations and transitions to make sure the all thing would look good."
+          }
+        },
+        {
+          "type": "video",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/adrien-laurent/adrien-laurent-portfolio-01.mp4"
+          }
+        },
+        {
+          "type": "parallax",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/adrien-laurent/adrien-laurent-portfolio-02.jpg",
+            "title": "Synerg'hetic case studies showcasing their clients"
+          }
+        },
+        {
+          "type": "explanation",
+          "data": {
+            "title": "Moving from shapes to live pixels",
+            "texts": [
+              "As a motion lover, Adrien wanted the overall website to be polished, following the creative details and subtle interactions he had imagined. We decided to use Vue.js and GSAP as DOM elements offered us a lot of simplicity, flexibility and speed of execution.",
+              "The final result received a lot of attention which made us really proud of all the efforts we put in this project. Being featured on websites like Muzli, Awwwards and Communication Arts supports us in pursuing our creative journey."
+            ]
+          }
+        },
+        {
+          "type": "video",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/adrien-laurent/adrien-laurent-portfolio-02.mp4"
+          }
+        },
+        {
+          "type": "headline",
+          "data": {
+            "title": "Working on a heavily animated and fluid experience was a cool experiment, given all the potential Adrien wanted to demonstrate"
+          }
+        },
+        {
+          "type": "picture",
+          "data": {
+            "source": "https://greeeg-ressources.netlify.com/projects/adrien-laurent/adrien-laurent-portfolio-03.jpg",
+            "title": "Synerg'hetic website"
+          }
+        }
+      ]
+    }
+  ],
+  "about": {
+    "description": "I'm Grégoire Mielle, a French curious developer with a focus on front-end development. Currently based in Paris, France, I'm looking for a 6-month internship in New York City starting in June 2019.",
+    "headline": "Curious developer curious developer curious developer",
+    "sections": {
+      "description": {
+        "title": "Introduction",
+        "texts": [
+          "I was raised in the east of France, and had lived and worked in Paris and Berlin. Coming from a scientific background, I quickly jumped into tech with the ambition to create neat & reliable web experiences. By being involved in my school, HETIC, I'm mastering my skills in various fields of digital creation, ranging from web development to UX Design.",
+          "As a Freelance front-end developer and intern in MING Labs & Braaxe, I was lucky enough to work with companies like BASF, le Théâtre du Chatelet or startups like Sesame Care. I am a perfectionist and curious person with the inclination to learn new things everyday and always up for new challenges."
+        ]
+      },
+      "experiences": {
+        "title": "What's my journey",
+        "items": [
+          {
+            "title": "Front-end developer",
+            "description": "Freelance — Paris, France",
+            "period": "March 2018 - Present"
+          },
+          {
+            "title": "Front-end intern",
+            "description": "MING Labs — Berlin, Germany",
+            "period": "July - October 2018"
+          },
+          {
+            "title": "Front-end intern",
+            "description": "Braaxe — Paris, France",
+            "period": "July - September 2017"
+          }
+        ]
+      },
+      "motivation": {
+        "title": "What's my motivation",
+        "texts": [
+          "For the past four years, I've always been enjoying to experiment new technologies, working with people coming from different backgrounds and creating products that solve companies & people needs. I believe in open-source and collaboration over competition. Moreover, I love sharing my knowledge and experience with others."
+        ],
+        "elements": [
+          {
+            "source": "https://greeeg-ressources.netlify.com/about/gregoire-mielle-about-01.jpg",
+            "title": "Test"
+          },
+          {
+            "source": "https://greeeg-ressources.netlify.com/about/gregoire-mielle-about-03.jpg",
+            "title": "Test"
+          },
+          {
+            "source": "https://greeeg-ressources.netlify.com/about/gregoire-mielle-about-02.jpg",
+            "title": "Test"
+          }
+        ]
+      },
+      "focus": {
+        "title": "What's my focus",
+        "items": [
+          {
+            "title": "Front-end development",
+            "elements": [
+              "React.js & Vue.js",
+              "Performance & Accessibility",
+              "Animations"
+            ]
+          },
+          {
+            "title": "Back-end development",
+            "elements": [
+              "Node.js",
+              "APIs & GraphQL",
+              "Container orchestration"
+            ]
+          },
+          {
+            "title": "And more",
+            "elements": [
+              "UX Design",
+              "Design systems",
+              "Project management"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "title": "Mentions & Recognition",
+        "items": [
+          {
+            "title": "Synerghetic.net",
+            "description": "Site of the Day — January 22nd, 2019",
+            "organization": "Awwwards"
+          },
+          {
+            "title": "Synerg'hetic.net",
+            "description": "Website of the Day — January 29th, 2019",
+            "organization": "CSS Design Awards"
+          },
+          {
+            "title": "Adrien Laurent's portfolio",
+            "description": "Site of the Day — January 4th, 2019",
+            "organization": "Awwwards"
+          },
+          {
+            "title": "Adrien Laurent's portfolio",
+            "description": "FWA of the Day — January 7th, 2019",
+            "organization": "The FWA"
+          },
+          {
+            "title": "Adrien Laurent's portfolio",
+            "description": "Website of the Day — January 2nd, 2019",
+            "organization": "CSS Design Awards"
+          },
+          {
+            "title": "Grégoire Mielle's portfolio",
+            "description": "Website of the Day — April 13th, 2018",
+            "organization": "CSS Design Awards"
+          }
+        ]
+      }
+    }
+  },
+  "loader": {
+    "title": "Portfolio Demo",
+    "description": "Vue Cli, ThreeJs gasp"
+  },
+  "general": {
+    "socials": {
+      "email": "hello@greeeg.com",
+      "twitter": "https://twitter.com/greeeg/",
+      "linkedin": "https://www.linkedin.com/in/greeeg/",
+      "github": "https://github.com/greeeg",
+      "instagram": "https://www.instagram.com/gregoiremielle/"
+    },
+    "bars": {
+      "left": "Scroll or hold to have fun",
+      "right": "from shapes to live products"
+    }
+  },
+  "footer": {
+    "title": "Drop me a line if you want to say hi or have a beer, i will be very happy to hear from you."
+  }
+}

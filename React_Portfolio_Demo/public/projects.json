@@ -1,0 +1,1069 @@
+{
+	"projects": [
+        {
+            "id": "Construkted Reality",
+            "client": "Adrian Onsen",
+            "category": "enterprice",
+            "name": "Construkted Reality",
+            "thumbUrl": "/img/projects/thumbs/harajuku",
+            "description": "Roche is the world’s largest biotech company, a global pioneer in pharmaceuticals and diagnostics. During the four years of working for the company I was involved in development of several systems... ",
+
+            "details": "Roche is the world’s largest biotech company, a global pioneer in pharmaceuticals and diagnostics. I joined Roche in 2013 as a <strong>Full Stack developer</strong> doing <strong>AngularJS development</strong> on the frontend and <strong>Java</strong> on the backend. From the very begining I have to learn how to work in distributed <strong>agile teams</strong> using agile processes like <strong>Scrum</strong>, <strong>Kanban</strong> with continuous improvement in continuous integration environment. During the four years of working for the company I was involved in development of several projects i.e. </p><p><strong>Risk assessment and categorization tool</strong> that allows teams to assess the study risks, plan risk mitigation, and review of critical data and processes. It was one of the first polyglot platform with <strong>Microservices Architecture</strong> implemented in Roche. Fully asynchronous event driven communication with <strong>WebSockets</strong>. System was implemented and successfully released to Production using pure Scrum methodology. CI and CD in place, as well as one-click deployment to Production environment.</p><p><strong>Web interface</strong> for SharePoint (Microsoft’s document management and storage system), that allows the user to upload, edit, label and search for documents across multiple SharePoints sites.</p><p><strong>Tracking tool</strong> it is a kind of <strong>JIRA</strong> product, where users can define and track certain activities. Every activity consists of a set of fields which define tracked content. For instance, to track your client’s complaint, first you have to define what kind of fields your activity should consist of. This part of the system  is called “definition”. After definition is complete, complaint activity based on this definition can be created. Now tracking new complaint is possible, user can fill in all created fields with data, set status of the complaint and do other actions.</p><p>System for gathering information about Roche's associates. Typical <strong>CRUD</strong> application.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/roche/roche_01.jpg"
+                    }
+                ]
+            },
+            "metaData": {
+                "title": "Roche",
+                "description": "Working as a Java / Javascript developer for Roche"
+
+            }
+        },
+        {
+            "id": "pushmetrics-gmbh",
+            "client": "PushMetrics",
+            "category": "enterprice",
+            "name": "Your Project2",
+            "thumbUrl": "/img/projects/thumbs/harajuku",
+            "description": "PushMetrics is B2B SaaS startup for Business Intelligence that brings analytics into Slack, triggers reports and alerts based on relevant changes and anomalies in business data.",
+            "details": "PushMetrics is B2B SaaS startup for Business Intelligence that brings analytics into Slack, triggers reports and alerts based on relevant changes and anomalies in business data. <br /><br />As a team member I was actively involved in technological advising, helping define company rules, building and scaling SaaS application.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/pushmetrics/pushmetrics.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "mashon-comic-book-creator",
+            "client": "t-sign/mashON",
+            "url": "http://mashon.com/spore/creator",
+            "category": "application",
+            "name": "Your Project3",
+            "shortName": "Comic Book Creator",
+            "thumbUrl": "/img/projects/thumbs/mashon",
+            "description": "MashOn Platform contains 4 main applications: Comic Book Creator, Comic Viewer, Gallery and E-card Creator. Each application has a mechanism for easy skinning and is CMS driven. A separate framework was developed in ActionScript 3 with more than 50 flexible GUI components used across different applications, multi language support.",
+            "details": "MashOn Platform contains 4 main applications: Comic Book Creator, Comic Viewer, Gallery and E-card Creator. Each application has a mechanism for easy skinning and is CMS driven. <br /><br />A separate framework was developed in ActionScript 3 with more than 50 flexible GUI components used across different applications, multi language support. <br /><br />Possibility of embedding applications on one of many social network blogs or websites. I built highly optimised ActionScript 3 / JavaScript components. Additionally as a person with php knowledge I was partly responsible for the design and implementation of backend's API. ",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/mashon/mashon_creator_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/mashon/mashon_creator_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/mashon/mashon_viewer_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/mashon/mashon_viewer_02.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sitetalk-social-community",
+            "client": "Lightmaker",
+            "url": "http://sitetalk.com/",
+            "date": "September 2010",
+            "category": "frontend/backend development",
+            "name": "Your Project4",
+            "shortName": "Sitetalk",
+            "thumbUrl": "/img/projects/thumbs/sitetalk",
+            "description": "Sitetalk is a free Social Network Platform (SNP) that combines social networking with integrated services, benefits and recognises user personal time that he/she spends on the community. The platform was developed by teams of programmers from the UK, Netherlands, Ukraine, Singapore and Poland.",
+            "details": "Sitetalk is a free Social Network Platform (SNP) that combines social networking with integrated services, benefits and recognises user personal time that he/she spends on the community. <br /><br />The platform was developed by teams of programmers from the UK, Netherlands, Ukraine, Singapore and Poland. <br /><br />I was responsible for the development of deals module with functionality similar to the Groupon website.<br /><br />The second challenge was SiteTalk Live, flash ultra-modern video chat platform integrated into the SiteTalk social network community. <br /><br /> As a Team Leader in SiteTalk Live project I was responsible for selecting the technology and carrying out the development of the entire application on the basis of the clients requirements and guidelines. The SiteTalk Platform combined many different languages and technologies.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_01.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_02.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_03.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_04.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_05.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_06.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_07.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_08.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_09.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_10.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk/sitetalk_11.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "greenpeace-big-oil-spill",
+            "client": "vanksen",
+            "url": "",
+            "date": "September 2010",
+            "category": "social campaign",
+            "name": "Your Project5",
+            "thumbUrl": "/img/projects/thumbs/greenpeace",
+            "description": "The Big Online Spill was an experiment in online social gaming that allows players to keep the spotlight on oil giants by splashing digital oil all over the web, one page at a time. Gamers can choose their way to spill: either by entering the URL of a website or the name of a Facebook friend.",
+            "details": "The Big Online Spill was an experiment in online social gaming that allows players to keep the spotlight on oil giants by splashing digital oil all over the web, one page at a time. <br /><br />Gamers can choose their way to spill: either by entering the URL of a website or the name of a Facebook friend. Then, a version of the page will appear, and players can target and squirt oil on any part of the page they wish.<br /><br /> When you've wreaked enough havoc on the proxy page, you can choose to \"Cap It!\" and share the page with friends, or attack another page.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_01.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_02.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_03.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_04.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_05.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_06.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_07.png"
+                    },
+                    {
+                        "url": "/img/projects/greenpeace/greenpeace_08.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "harajuku",
+            "client": "syrup agency - NYC",
+            "url": "http://hlfragrance.com",
+            "date": "December 2009",
+            "category": "minisite",
+            "name": "Harajuku",
+            "thumbUrl": "/img/projects/thumbs/harajuku",
+            "description": "FWA awarded project (FWA Website of the Day 09/12/23). In this project we were responsible for full flash development and backend integration.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/harajuku/harajuku_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/harajuku/harajuku_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/harajuku/harajuku_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/harajuku/harajuku_04.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "nivea-blog",
+            "client": "Lightmaker",
+            "url": "",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Nivea Blog",
+            "thumbUrl": "/img/projects/thumbs/nivea_blog",
+            "description": "We've implemented full flash Nivea blog. It was a collection of expert's advices for a skincare. Blog articles were both text, video posts and/or info-graphics. All content was fed dynamically from the backend data.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/nivea_blog/nivea_blog_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_blog/nivea_blog_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_blog/nivea_blog_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_blog/nivea_blog_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_blog/nivea_blog_05.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bedhead",
+            "client": "Lightmaker",
+            "url": "http://bedhead.com/",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Bedhead",
+            "thumbUrl": "/img/projects/thumbs/bedhead_3",
+            "description": "The core of this website is a dynamic grid with expandable and draggable boxes. Each box is different component: video player, photo gallery, blog article, an unique dynamic grid that aligns boxes to each other based on a dynamic data feed. Site supports different languages and  can be fully translated. ",
+            "details": "The Bedhead is a Flash website with an unique navigation. The core of this website is a dynamic grid with expandable and draggable boxes. Each box is different component: video player, photo gallery, blog article, radio etc. <br /><br />We have implemented a unique dynamic grid that aligns boxes to each other based on a dynamic data feed. Site supports different languages and  can be fully translated. <br /><br />Bedhead website has been also integrated with Facebook API. Play around with to boxes to experience its unique way of exploring the content.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/bedhead/bedhead_01.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_02.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_03.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_05.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_06.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_07.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_08.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_09.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_10.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_11.png"
+                    },
+                    {
+                        "url": "/img/projects/bedhead/bedhead_13.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "kahlua-social-campaing",
+            "client": "D.Workz Interactive",
+            "url": "",
+            "date": "September 2010",
+            "category": "social campaign",
+            "name": "Kahlua Social Campaing",
+            "thumbUrl": "/img/projects/thumbs/kahlua",
+            "description": "In this project we had and oportunity to build a Facebook application where user can type text in any language that was translated to Spanish and published on user wall in the next steps. The translation was handled using Google Translate API.",
+            "details": "In this project we had and oportunity to build a Facebook application where user can type text in any language that was translated to Spanish and published on user wall in the next steps. The translation was handled using Google Translate API. <br /><br /> It was also possible to watch several delicioso films and preview some submitted recipes. User could share the recipe and movie with their Facebook friends.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/kahlua/kahlua_01.png"
+                    },
+                    {
+                        "url": "/img/projects/kahlua/kahlua_02.png"
+                    },
+                    {
+                        "url": "/img/projects/kahlua/kahlua_03.png"
+                    },
+                    {
+                        "url": "/img/projects/kahlua/kahlua_04.png"
+                    },
+                    {
+                        "url": "/img/projects/kahlua/kahlua_05.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "mtv--the-hills",
+            "client": "t-sign",
+            "url": "",
+            "date": "February 2008",
+            "category": "frontend application",
+            "name": "MTV - The Hills",
+            "thumbUrl": "/img/projects/thumbs/mtv",
+            "description": "Ecard application was created to promote a new season of The Hills series for MTV. Users are given the opportunity to create and send an Ecard, commenting on particular scenes from series trailers.",
+            "details": "Ecard application was created to promote a new season of The Hills series for MTV. Users are given the opportunity to create and send an Ecard, commenting on particular scenes from series trailers. <br /><br />My part of the project was flash development. Creating new components accordingly to the client requirements and optimizing the old ones.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/mtv/mtv_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/mtv/mtv_02.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "wonderpage",
+            "client": "il2d",
+            "url": "http://wonderpage.com/",
+            "date": "September 2010",
+            "category": "backend development",
+            "name": "Wonder Page",
+            "thumbUrl": "/img/projects/thumbs/wonderpage",
+            "description": "Wonder Page – (Bookmark Manager) - The aim was to create a bookmark manager that lets users create and store visual bookmarks in an organized way. The Wonderpage eliminates the need  to store bookmarks separately for each browsers.",
+            "details": "Wonder Page – (Bookmark Manager) - The aim was to create a bookmark manager that lets users create and store visual bookmarks in an organized way. The Wonderpage eliminates the need  to store bookmarks separately for each browsers. <br /><br />User can add bookmarks right in the portal or through one of the browser addons. User can also follow other people like on Twiter and have other user follow him.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_05.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_06.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_07.jpg"
+                    },
+                    {
+                        "url": "/img/projects/wonderpage/wonderpage_08.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "labello",
+            "client": "Lightmaker",
+            "url": "http://labello.nl/",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Labello",
+            "thumbUrl": "/img/projects/thumbs/labello",
+            "description": "The idea for the Labello Kiss Click site was to make a kind of social dating site. Our aim was to develop an online Flash action site for Valentine's day based on social media platform like Facebook and Hivos.",
+            "details": "The idea for the Labello Kiss Click site was to make a kind of social dating site. Our aim was to develop an online Flash action site for Valentine's day based on social media platform like Facebook and Hivos. <br /><br />On the website men can choose their type of woman and women can choose their taste. This is done by a taste/type selector. Once a selection was made they can see people who match their taste or type. The user could then “like” somebody by clicking on a thumbs-up icon that is situated in the lower right corner of the profile picture. If a person “likes” him / her “back” they’ll have the opportunity to connect to each other and both get the link to the opposite profile.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/labello/labello_01.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_02.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_03.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_04.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_05.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_06.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_07.png"
+                    },
+                    {
+                        "url": "/img/projects/labello/labello_08.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sephora",
+            "client": "cubo cc",
+            "url": "",
+            "date": "September 2010",
+            "category": "social campaign",
+            "name": "Sephora",
+            "thumbUrl": "/img/projects/thumbs/sephora",
+            "description": "Our aim for Sephora's Beauty Envy Game was to build a Facebook application where user can win any product from limited Sephora collection. The player can open one of over a hundred virtual gifts once a day. An unwrapped gift can be kept by the user. In other case he need to wait for a new one until tomorrow or steal gift from one of his friends.",
+            "details": "Our aim for Sephora's Beauty Envy Game was to build a Facebook application where user can win any product from limited Sephora collection. The player can open one of over a hundred virtual gifts once a day. An unwrapped gift can be kept by the user. In other case he need to wait for a new one until tomorrow or steal gift from one of his friends. <br /><br />At the end of the game the 30 lucky user keeping virtual gifts can transform an unwrapped or stolen gift into a real product. Beside implementation of main game functionality there were made many of other functionalities like Wishlist (gallery where players can check all gifts), What's hot (the most stolen gifts), Sephora's pick of the day (everyday inspiration sent to app users).",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/sephora/sephora_01.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_02.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_03.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_04.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_05.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_06.png"
+                    },
+                    {
+                        "url": "/img/projects/sephora/sephora_07.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "dhl_game",
+            "client": "type3",
+            "url": "",
+            "date": "May 2009",
+            "category": "game",
+            "name": "DHL - Game",
+            "thumbUrl": "/img/projects/thumbs/dhl_game",
+            "description": "Our aim was to build a flash game entirely in ActionScript 2.0. The user had a specified amount of time to open packages from conveyor and locate its content on a map of the USA.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/dhl_game/dhl_game_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_game/dhl_game_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_game/dhl_game_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_game/dhl_game_04.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "hivos_seduction",
+            "client": "Lightmaker",
+            "url": "http://www.hivos.nl/seductionproject",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Hivos Seduction Project",
+            "thumbUrl": "/img/projects/thumbs/hivos_seduction",
+            "description": "The Seduction project is a part of Hivos organisation. It aims to explore the possibilities of effecting behavioral change around the energy problem via conscious and unconscious signals. On the website the visitor can find experiments that cover any kind of idea / concept / execution, which explores behavioral change surrounding the energy problem.",
+            "details": "The Seduction project is a part of Hivos organisation. It aims to explore the possibilities of effecting behavioral change around the energy problem via conscious and unconscious signals. On the website the visitor can find experiments that cover any kind of idea / concept / execution, which explores behavioral change surrounding the energy problem. <br /><br />Our main task in the project was to develop Facebook application and implement front-end part of the website. We've been also responsible for integration with existing content management system powered the entire Hivos website.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_01.png"
+                    },
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_02.png"
+                    },
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_03.png"
+                    },
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_04.png"
+                    },
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_05.png"
+                    },
+                    {
+                        "url": "/img/projects/hivos_seduction_project/hivos_seduction_project_06.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "player_kikkoman",
+            "client": "Lightmaker",
+            "url": "",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Video Player for Kikkoman",
+            "thumbUrl": "/img/projects/thumbs/kikkoman",
+            "description": "We've implemented a video player for Netherland Kikkoman website.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/kikkoman/kikkoman_01.png"
+                    },
+                    {
+                        "url": "/img/projects/kikkoman/kikkoman_02.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bigstar",
+            "client": "il2d",
+            "url": "http://bigstar.pl/",
+            "date": "September 2010",
+            "category": "backend development",
+            "name": "Bigstar",
+            "thumbUrl": "/img/projects/thumbs/bigstar",
+            "description": "Big Star is one of the most respected clothing companies in the market and the most frequently purchased brand of jeans among Poles. The new website brings Collection Fall – Winter 2012/13. ",
+            "details": "Big Star is one of the most respected clothing companies in the market and the most frequently purchased brand of jeans among Poles. The new website brings Collection Fall – Winter 2012/13. <br /><br />The idea was to create rich dynamic website presenting products that can looks unique for present and upcoming collections. Overall the customized modules fully managed from the CMS were very crucial to the success of the project.  To meet project requirements Make It With Us has build custom CMS system based on the CodeIgniter framework.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/big_star/big_star_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_05.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_06.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_07.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_08.jpg"
+                    },
+                    {
+                        "url": "/img/projects/big_star/big_star_09.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "pigeon-squadron",
+            "client": "vanksen",
+            "url": "",
+            "date": "September 2010",
+            "category": "social campaign",
+            "name": "Pigeon Squadron",
+            "thumbUrl": "/img/projects/thumbs/pigeon-squadron",
+            "description": "In Operation Facepoop user controls pigeon flying over facebook friend's page and create chaos by bombing his Facebook wall. Due to the Facebook limitations in placing user's profile in iFrame the challenging part in this project was to rebuild user Facebook profile and display it inside the application.",
+            "details": "In Operation Facepoop user controls pigeon flying over facebook friend's page and create chaos by bombing his Facebook wall. Due to the Facebook limitations in placing user's profile in iFrame the challenging part in this project was to rebuild user Facebook profile and display it inside the application.<br /><br />The deep research of Facebook API was key to the success of the project and of course we managed to make it :)",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_01.png"
+                    },
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_02.png"
+                    },
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_03.png"
+                    },
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_04.png"
+                    },
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_05.png"
+                    },
+                    {
+                        "url": "/img/projects/pigeon_squadron/PigeonSquadron_06.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sitetalk_live",
+            "client": "Lightmaker",
+            "url": "http://sitetalk.com/live",
+            "date": "September 2010",
+            "category": "frontend/backend development",
+            "name": "Sitetalk Live Video Chat",
+            "thumbUrl": "/img/projects/thumbs/sitetalk_live",
+            "description": "SiteTalk Live is a new ultra-modern communication platform that is seamlessly integrated into the SiteTalk social network community. The idea was to build application where Sitetalk members can make live group video conversations. Place where they may promote their opportunities by creating broadcasts or joining in ones that may interest them.",
+            "details": "SiteTalk Live is a new ultra-modern communication platform that is seamlessly integrated into the SiteTalk social network community. The idea was to build application where Sitetalk members can make live group video conversations. Place where they may promote their opportunities by creating broadcasts or joining in ones that may interest them. <br /><br />The project was very interesting because of its complexity and diversity in the technologies we've used. We were responsible for carrying out the entire application on the basis of the requirements and guidelines.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/sitetalk_live/sitetalk_live_01.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk_live/sitetalk_live_02.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk_live/sitetalk_live_03.png"
+                    },
+                    {
+                        "url": "/img/projects/sitetalk_live/sitetalk_live_04.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "driver",
+            "client": "Lightmaker",
+            "url": "",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Driver",
+            "thumbUrl": "/img/projects/thumbs/driver",
+            "description": "We've created HTML5 and JavaScript interactive questionare that allows to mach user's personality with famous drivers.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/driver/driver_01.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_02.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_03.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_04.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_05.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_06.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_07.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_08.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_09.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_10.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_11.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_12.png"
+                    },
+                    {
+                        "url": "/img/projects/driver/driver_13.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "nivea_100",
+            "client": "Lightmaker",
+            "url": "http://www.nivea.nl/",
+            "date": "September 2010",
+            "category": "frontend development",
+            "name": "Nivea 100 Jaar",
+            "thumbUrl": "/img/projects/thumbs/nivea_100_1",
+            "description": "During the celebration of 100 years of Nivea we had a chance to create a full Flash website for one of the Nivea's campaigns. We have developed a unique platform for uploading and sharing users pictures. Our solution enabled uploading photos directly from user's camera and/or his hard drive.",
+            "details": "During the celebration of 100 years of Nivea we had a chance to create a full Flash website for one of the Nivea's campaigns. We have developed a unique platform for uploading and sharing users pictures. Our solution enabled uploading photos directly from user's camera and/or his hard drive. <br /><br />Additionally there were also implemented a integration with photos taken from Nivea bus’s. Nivea bus was travelling around the country and has it's own mini photo studio on board. All the bus pictures were sent directly to our system and than presented on website's photo gallery. <br /><br />For the purpose of this site we created sophisticated backend system for management and moderation of all of the uploaded pictures.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_00.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/nivea_100/nivea_100_05.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "moerth",
+            "client": "Moerth & Moerth",
+            "url": "",
+            "date": "April 2009",
+            "category": "website",
+            "name": "Moerth & Moerth",
+            "thumbUrl": "/img/projects/thumbs/morth_thumb",
+            "description": "An advanced concept project for advertising agency from Austria. The client wanted us to create unique and modern designs with subtle 3D elements. Not to loose a static flat experience we decided to create several separate views to grant the user the choice of perspective. We achieved a feeling of depth on the site experienced by the user while he or she interacts with animated elements, which are triggered by the movements of his mouse.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/moerth/moerth_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_05.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_06.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_07.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_08.jpg"
+                    },
+                    {
+                        "url": "/img/projects/moerth/moerth_09.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "dhl_bettersendit",
+            "client": "type3",
+            "url": "",
+            "date": "June 2009",
+            "category": "minisite",
+            "name": "Better Send it DHL!",
+            "thumbUrl": "/img/projects/thumbs/dhl_bettersendit",
+            "description": "We have created an animated tree with branches bouncing around its nodes. Exploration of the site is highly improved by such an innovative display model. The site needed to support different languages including Hebrew and Arabic. To achieve that we used a brand new flash technology - Text Layout Framework.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_05.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_06.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl_bsdhl/dhl_bsdhl_07.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "football",
+            "client": "t-sign",
+            "url": "",
+            "date": "May 2009",
+            "category": "game",
+            "name": "Trick Kick",
+            "thumbUrl": "/img/projects/thumbs/football",
+            "description": "The aim was to create a multiplayer Flash Game, in which players could compete in a football game. We chose a Flash Media Server 3.5 as the best solution for Flash communication between players. We created a bunch of components for purposes of a multiplayer game allowing exchange of all the requests btw clients. Beside Flash development we were responsible for system architecture, FMS configuration, FMS side scripts and PHP development.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/football/football_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/football/football_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/football/football_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/football/football_04.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "murauer",
+            "client": "murauer",
+            "url": "",
+            "date": "July 2009",
+            "category": "website",
+            "name": "Murauer Fan",
+            "thumbUrl": "/img/projects/thumbs/murauer",
+            "description": "We have created a Flash Game and a PHP backend for Murauer Company. The site allowed clients to collect promotional codes, which were then exchanged for prizes.",
+            "images": {
+                "img": [
+                   {
+                       "url": "/img/projects/murauer/murauer_01.jpg"
+                   }
+                ]
+            }
+        },
+        {
+            "id": "winston",
+            "client": "winston",
+            "url": "",
+            "date": "August 2009",
+            "category": "website",
+            "name": "Winston",
+            "thumbUrl": "/img/projects/thumbs/winston",
+            "description": "During this project we were responsible for the system architecture, PHP backend development, mobile codes integration and full Flash development. For the purposes of this site we also created a Flash Game.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/winston/winston_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/winston/winston_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/winston/winston_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/winston/winston_04.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "gt",
+            "client": "t-sign",
+            "url": "http://gtchannel.com",
+            "date": "May 2009",
+            "category": "website",
+            "name": "GT Channel",
+            "thumbUrl": "/img/projects/thumbs/gt",
+            "description": "GT-Channel website was launched on Drupal, an open source content management platform. I was member of a programming team responsible for the software architecture in the project, for the choice of suitable modules, which allow to accomplish project objectives, as well as for its implementation and modification to fit project requirements.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/gt/gt_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/gt/gt_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/gt/gt_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/gt/gt_04.jpg"
+                    },
+                    {
+                        "url": "/img/projects/gt/gt_05.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "kushtv",
+            "client": "t-sign",
+            "url": "",
+            "date": "January 2008",
+            "category": "website",
+            "name": "KushTV",
+            "thumbUrl": "/img/projects/thumbs/kushtv",
+            "description": "KushTV is the first high definition video network for online, mobile and digital cable platforms. KushTV targets young adult audiences with original programming, live events and exclusive coverage of today's hottest stars in entertainment, music, comedy, gaming and sports.",
+            "details": "KushTV is the first high definition video network for online, mobile and digital cable platforms. KushTV targets young adult audiences with original programming, live events and exclusive coverage of today's hottest stars in entertainment, music, comedy, gaming and sports. I was part of php development team.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/kush/kush_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/kush/kush_02.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "capricorn",
+            "client": "Capricorn Digital",
+            "url": "http://www.capricorn-digital.com/",
+            "date": "September 2010",
+            "category": "backend development",
+            "name": "Capricorn",
+            "thumbUrl": "/img/projects/thumbs/capricorn",
+            "description": "The idea was to create modern, innovative and creative website that help client to build company's brand reputation as a specialist in the Flash, Design, CG Animiation & eCommerce field. Creating grateful experience throughout website was possible by using papervision3d, realtime 3D engine. Beyond attractive looking that grabs attention.",
+            "details": "The idea was to create modern, innovative and creative website that help client to build company's brand reputation as a specialist in the Flash, Design, CG Animiation & eCommerce field. Creating grateful experience throughout website was possible by using papervision3d, realtime 3D engine. <br /><br />Beyond attractive looking that grabs attention. Our goal was to provide SEO-friendly website with custom CMS system (powered by Zend Framework). It was important for the client to manage every aspect of this website (contents, meta tags, colors, position of elements etc).",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/capricorn/capricorn_01.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_02.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_03.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_04.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_05.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_06.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_07.png"
+                    },
+                    {
+                        "url": "/img/projects/capricorn/capricorn_08.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "fes",
+            "client": "t-sign/Take Part",
+            "url": "http://charityagreement.takepart.com",
+            "date": "March 2010",
+            "category": "backend system",
+            "name": "File Exchange System",
+            "thumbUrl": "/img/projects/thumbs/fes",
+            "description": "File Exchange Manager for Participant is a web based file manager application which allows users to manage files via a web browser. One of the project requirements was to provide friendly and dynamic user interface, working without page reload.",
+            "details": "File Exchange Manager for Participant is a web based file manager application which allows users to manage files via a web browser. One of the project requirements was to provide friendly and dynamic user interface, working without page reload. <br /><br />Technologies used in the development of this application: PHP (Zend Framework), MySQL, jQuery.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/fes/fes_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/fes/fes_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/fes/fes_03.jpg"
+                    },
+                    {
+                        "url": "/img/projects/fes/fes_04.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "dhleee",
+            "client": "3e",
+            "url": "http://www.dhlservicepoint.pl",
+            "date": "December 2009",
+            "category": "website",
+            "name": "DHL Service Point",
+            "thumbUrl": "/img/projects/thumbs/dhleee",
+            "description": "As a member of a programming team I participated in two projects for DHL. The first of these, \"DHL System Urlopowy\", provides DHL Express employees with information on leave entitlements and choices available when determining or approving the type of their leave. The second project is a webiste created for the EXPRESS4YOU service needs.",
+            "details": "As a member of a programming team I participated in two projects for DHL. The first of these, \"DHL System Urlopowy\", provides DHL Express employees with information on leave entitlements and choices available when determining or approving the type of their leave. The second project is a webiste created for the EXPRESS4YOU service needs. <br /><br />Technologies used for the projects' development were the following: PHP (Propel, Smarty, jQuery), Oracle, MySQL.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/dhl/dhl_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/dhl/dhl_02.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "adrenaline",
+            "client": "",
+            "url": "http://adrenalinemotorsport.pl/",
+            "date": "December 2009",
+            "category": "website",
+            "name": "Adrenaline Motorsport",
+            "thumbUrl": "/img/projects/thumbs/adrenaline",
+            "description": "Website Adrenalinemotorsport was launched on my own Content Management System. The CMS was written in JAVA technology. Frameworks used in the project: STRUTS (for MVC implementation), SPRING (used for dependency injection, Inversion of Control) and iBATIS (Data Mapper which automates the mapping between SQL databases and objects). ",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/adrenaline/adrenaline_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/adrenaline/adrenaline_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/adrenaline/adrenaline_03.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "xtb",
+            "client": "",
+            "url": "http://www.xtb.com",
+            "date": "December 2007",
+            "category": "website",
+            "name": "xtb online brokers",
+            "thumbUrl": "/img/projects/thumbs/xtb",
+            "description": "X-Trade Brokers Dom Maklerski S.A. is a licensed broker house operating within the European Union, it offers access to the most effective and user friendly Stock Exchange platform. As a member of a programming team I was responsible for developing and maintaining the internet platform.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/xtb/xtb_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/xtb/xtb_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/xtb/xtb_03.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "projectalbum",
+            "client": "",
+            "url": "http://www.projectalbum.pl",
+            "date": "November 2009",
+            "category": "website",
+            "name": "Project Album",
+            "thumbUrl": "/img/projects/thumbs/palbum",
+            "description": "Projectalbum is an online catalog (based on a printed version) for media industry, fashion, film, advertising and art. It is a great place to find specialists in these fields. My part of the project consisted in the full php development.",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/palbum/palbum_01.jpg"
+                    },
+                    {
+                        "url": "/img/projects/palbum/palbum_02.jpg"
+                    },
+                    {
+                        "url": "/img/projects/palbum/palbum_03.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "projectc-banners",
+            "client": "project c",
+            "url": "http://www.projectc.net/",
+            "date": "June 2010",
+            "category": "banners",
+            "name": "Rich Media Units",
+            "thumbUrl": "/img/projects/thumbs/despicable",
+            "description": "Make It With Us! has developed a series of rich media units for DespicableMe, Sorcerer's Apprentice and The Client List internet campaigns",
+            "images": {
+                "img": [
+                    {
+                        "url": "/img/projects/despicableme/despicableme_01.png"
+                    },
+                    {
+                        "url": "/img/projects/despicableme/despicableme_02.png"
+                    },
+                    {
+                        "url": "/img/projects/despicableme/despicableme_03.png"
+                    },
+                    {
+                        "url": "/img/projects/despicableme/despicableme_04.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
