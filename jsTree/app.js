@@ -1,7 +1,7 @@
 jQuery.ajax({
     type: "GET",
     url: './data.json',
-    success: function(data) {
+    success: function (data) {
         main(data);
     },
     error: (e) => {
@@ -9,9 +9,8 @@ jQuery.ajax({
     }
 });
 
-//test();
-
 let tree;
+let JavaScriptNodeId;
 
 function main(wmsData) {
     const layer = wmsData.Capability.Layer;
@@ -53,7 +52,7 @@ function main(wmsData) {
 }
 
 function generateTree(layer, parentNode) {
-    if(layer.Layer === undefined) {
+    if (layer.Layer === undefined) {
         // leaf node
         tree.jstree('create_node',
             parentNode,
@@ -61,8 +60,8 @@ function generateTree(layer, parentNode) {
                 "text": layer.Name,
                 "icon": './tree.png',
                 "state": {
-                  //  selected : false,
-                  //  disabled: true
+                    //  selected : false,
+                    //  disabled: true
                 },
                 data: {
                     "layerInfo": layer,
@@ -82,7 +81,7 @@ function generateTree(layer, parentNode) {
     let opened = false;
 
     // check if first level
-    if(parentNode === '#')
+    if (parentNode === '#')
         opened = true;
 
     let node1 = tree.jstree('create_node',
@@ -90,7 +89,7 @@ function generateTree(layer, parentNode) {
         {
             "text": title,
             "state": {
-                opened : opened,
+                opened: opened,
             },
             a_attr: {
                 class: "no_checkbox"
@@ -101,18 +100,18 @@ function generateTree(layer, parentNode) {
         false,
     );
 
-    for(let i = 0; i < layer.Layer.length; i++) {
+    for (let i = 0; i < layer.Layer.length; i++) {
         generateTree(layer.Layer[i], node1);
     }
 }
 
 // https://www.jstree.com/api/#/?f=create_node(%5Bpar,%20node,%20pos,%20callback,%20is_loaded%5D
 
-function test() {
-    let tree = jQuery("#jstree");
+function generateTestTree() {
+    let tree = jQuery("#testJstree");
 
     tree.jstree({
-        'plugins': ["checkbox",  "wholerow"],
+        'plugins': ["checkbox", "wholerow"],
         'core': {
             "dblclick_toggle": false,
             "state": {
@@ -128,7 +127,7 @@ function test() {
                 "dots": false
             }
             */
-           // "multiple": true
+            // "multiple": true
         },
         "checkbox": {
             "keep_selected_style": true,
@@ -139,15 +138,14 @@ function test() {
 
     });
 
-// https://www.jstree.com/api/#/?f=create_node(%5Bpar,%20node,%20pos,%20callback,%20is_loaded%5D
+    // https://www.jstree.com/api/#/?f=create_node(%5Bpar,%20node,%20pos,%20callback,%20is_loaded%5D
 
-    let node1 = tree.jstree('create_node',
+    let WebNodeId = tree.jstree('create_node',
         // parent node (to create a root node use either "#" (string) or null)
         "#",
         // data for the new node
         {
-            "text": "<b>1   &nbsp; &nbsp; &nbsp;   Name1</b>",
-            "id": "pointclouds",
+            "text": "<b>Web</b>",
             "icon": null
         },
         // the index at which to insert the node, "first" and "last" are also supported, default is "last"
@@ -157,32 +155,34 @@ function test() {
         false,
     );
 
-    let node1_1 = tree.jstree('create_node',
-        node1,
+    console.log(WebNodeId);
+
+    tree.jstree('create_node',
+        WebNodeId,
         {
-            "text": "<b>1 Name2</b>",
+            "text": "<b>HTML</b>",
         },
         "last",
         false,
         false,
     );
 
-    let node1_2 = tree.jstree('create_node',
-        node1,
+    JavaScriptNodeId = tree.jstree('create_node',
+        WebNodeId,
         {
-            "text": "<b>1_2 Name2</b>",
+            "text": "<b>JavaScript</b>",
         },
         "last",
         false,
         false,
     );
 
-    let node2 = tree.jstree('create_node',
+    tree.jstree('create_node',
         // parent node (to create a root node use either "#" (string) or null)
         "#",
         // data for the new node
         {
-            "text": "<b>2</b>",
+            "text": "<b>Mobile</b>",
         },
         // the index at which to insert the node, "first" and "last" are also supported, default is "last"
         "last",
@@ -191,20 +191,28 @@ function test() {
     );
 }
 
-document.getElementById('test').addEventListener('click', ()=>{
-    // for remove all
-    //$('#jstree').empty();
+document.getElementById('alertCheckedNodesData').addEventListener('click', () => {
+    alertCheckedNodesData();
+});
 
-    const jsonNodes = $('#jstree').jstree(true).get_json('#', { flat: true });
+document.getElementById('select').addEventListener('click', () => {
+    jQuery("#testJstree").jstree(true).select_node(JavaScriptNodeId);
+});
 
-    jsonNodes.forEach(node =>{
-        if(!node.data.layerInfo)
+generateTestTree();
+
+function alertCheckedNodesData() {
+    const jsonNodes = $('#jstree').jstree(true).get_json('#', {flat: true});
+
+    jsonNodes.forEach(node => {
+        if (!node.data.layerInfo)
             return;
 
-        if(!node.state.checked)
+        if (!node.state.checked)
             return;
 
         console.log(node.data.layerInfo);
+        alert(JSON.stringify(node.data.layerInfo));
     })
-});
+}
 
