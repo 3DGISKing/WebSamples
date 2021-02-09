@@ -22,7 +22,7 @@ function main(wmsData) {
     tree = jQuery("#jstree");
 
     tree.jstree({
-        'plugins': ["checkbox", "wholerow"],
+        'plugins': ["checkbox", "wholerow", "contextmenu"],
         'core': {
             "dblclick_toggle": true,
             "state": {
@@ -111,7 +111,7 @@ function generateTestTree() {
     let tree = jQuery("#testJstree");
 
     tree.jstree({
-        'plugins': ["checkbox", "wholerow"],
+        'plugins': ["checkbox", "wholerow", "contextmenu"],
         'core': {
             "dblclick_toggle": false,
             "state": {
@@ -135,7 +135,20 @@ function generateTestTree() {
             "whole_node": false,
             "tie_selection": false,
         },
-
+        "contextmenu": {
+            items: function ($node) {
+               return {
+                   "Create" : {
+                       "separator_before": false,
+                       "separator_after": false,
+                       "label": "Rename",
+                       "action": function (obj) {
+                           console.log(obj)
+                       }
+                   }
+               }
+            }
+        }
     });
 
     // https://www.jstree.com/api/#/?f=create_node(%5Bpar,%20node,%20pos,%20callback,%20is_loaded%5D
