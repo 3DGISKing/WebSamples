@@ -1,1 +1,8 @@
 /.idea
+/gulp4Boilerplate/build
+/gulp4Boilerplate/node_modules
+/gulp4Boilerplate/app.js
+/gulp4Boilerplate/app.js.map
+/gulp4Boilerplate/package-lock.json
+/gulp4Boilerplate/yarn.lock
+/gulp4Boilerplate/.idea

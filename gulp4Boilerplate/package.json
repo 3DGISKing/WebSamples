@@ -1,0 +1,22 @@
+{
+  "name": "construkted_js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/3DGISKing/construkted_js",
+  "author": "3DGISKing <wugis1219@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp default",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-open": "^3.0.1",
+    "rollup": "^1.31.1",
+    "rollup-plugin-postcss": "^2.0.3",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
