@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>alpine Hello World</title>
+
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
+
+</head>
+<body>
+<div x-data="dropdown()">
+    <button x-on:click="open">Open</button>
+
+    <div x-show="isOpen()" x-on:click.away="close">
+        // Dropdown
+    </div>
+</div>
+
+<script>
+    function dropdown() {
+        return {
+            show: false,
+            open() { this.show = true },
+            close() { this.show = false },
+            isOpen() { return this.show === true },
+        }
+    }
+</script>
+
+</body>
+</html>

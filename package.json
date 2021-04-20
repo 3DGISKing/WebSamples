@@ -1,0 +1,11 @@
+{
+  "name": "WebSamples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/3DGISKing/WebSamples",
+  "author": "3DGISKing <wugis1219@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.5"
+  }
+}
