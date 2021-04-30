@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>alpine X for</title>
+
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
+
+</head>
+<body>
+<div x-data="data()" >
+    <select>
+        <template x-for="level in levels" :key="level">
+            <option :value="level" x-text="level"></option>
+        </template>
+    </select>
+</div>
+
+<script>
+    function data() {
+        return {
+            levels: [1, 2, 3]
+        }
+    }
+</script>
+
+</body>
+</html>
