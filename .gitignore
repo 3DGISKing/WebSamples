@@ -8,3 +8,7 @@
 /gulp4Boilerplate/.idea
 /node_modules
 /yarn.lock
+/React/React_Context/yarn.lock
+/React/React_Context/.idea
+/React/React_Context/node_modules
+/React/React_Context/package-lock.json
